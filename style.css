@@ -8,7 +8,6 @@
 }  
 
 body{
-    background-image: url("../img/back\ \(1\).png");
     background: rgb(196, 196, 196);
     height: auto;
     width: 100%;
@@ -49,8 +48,8 @@ p{
 }
 
 .index-img{
-    width: 170px;
-    max-width: 100%; 
+    width: 160px;
+    max-width: 90%; 
     height: auto;
 }
 .index-image-block{
@@ -92,10 +91,10 @@ p{
     height: 300px;
 }
 #max-img{
-    width: 70%;
+    width: 45%;
 }
 .info-image{
-    width: 50%;
+    width: 40%;
     position: fixed;
     top: -0.5%;
     left: -0.5%;
@@ -218,7 +217,7 @@ footer{
     text-align: justify;
 }
 .book-image{
-    height: 500px;
+    height: 400px;
     box-shadow: 10px 10px 20px 10px rgba(0, 0, 0, 0.544);
     
 }
@@ -260,8 +259,6 @@ h2{
     width: auto;
     height: 303px;
 }
-
-
 
 @media only screen and (max-device-width: 600px) {
     .index-image-block{
